@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Machine Learning",
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Behavior Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "National University of Singapore"
+  year = 2013
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "B.Comp. in Computer Science"
+  institution = "National University of Singapore"
+  year = 2006
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Truong-Huy D. Nguyen is an assistant professor of computer science at the Department of Computer and Information Science, Fordham University. He is endeavoring to understand human behaviors and decision making, and build derivative applications leveraging such insights. His research therefore lies at the cross-junction of machine learning, artificial intelligence, and behavior analytics, with favorite applications being games and robotics.  He is actively collaborating with the [GUII Lab](https://web.northeastern.edu/guii/) at [Northeastern University](http://www.northeastern.edu/) (Boston, MA), and the [Robotics & Computer Vision Laboratory](http://storm.cis.fordham.edu/~lyons/rcvlab) at [Fordham](http://www.fordham.edu/). 
