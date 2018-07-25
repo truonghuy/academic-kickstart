@@ -40,7 +40,7 @@ projects = ["social_robotics"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["social robotics". "emotional motions", "drone swarms"]
+tags = ["social robotics", "emotional motions", "drone swarms"]
 
 # Links (optional).
 url_pdf = ""
