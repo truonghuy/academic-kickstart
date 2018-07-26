@@ -29,7 +29,7 @@ abstract_short = "Co-word and co-venue analysis on 8,207 papers from 48 core ven
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
