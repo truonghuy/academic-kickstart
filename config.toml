@@ -63,9 +63,8 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "Fordham University", url = "https://www.fordham.edu/" } ]
-
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "lighthouse.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "tnguyen88@fordham.edu"
   address = "Department of Computer and Information Science\nJMH 402C, Fordham University, Bronx, NY 10458, USA"
   office_hours = "Thursday 2:00 to 4:00PM or email for appointment"
