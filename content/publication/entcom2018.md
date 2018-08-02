@@ -44,7 +44,7 @@ projects = []
 tags = ["meta-analysis", "game research", "community evolution"]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S1875952117300289"
+url_pdf = "pdf/EntCom2018_finaldraft.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
