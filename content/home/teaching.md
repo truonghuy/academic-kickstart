@@ -20,9 +20,9 @@ weight = 60
 +++
 
 ### Present 
-* CISC 2540 Introduction to Video Game Design
-* CISC 4631 Data Mining
-* CISC 6745 Data Visualization
+* [CISC 2540 Introduction to Video Game Design](http://storm.cis.fordham.edu/~truonghuy/teaching/Fall2018/CISC2540/)
+* [CISC 4631 Data Mining](http://storm.cis.fordham.edu/~truonghuy/teaching/Fall2018/CISC4631/)
+* [CISC 6745 Data Visualization](http://storm.cis.fordham.edu/~truonghuy/teaching/Fall2018/CISC6745/)
 
 
 ### Past
